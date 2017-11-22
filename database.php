@@ -35,8 +35,8 @@
 		$con->query("
 	    	CREATE TABLE IF NOT EXISTS $table (
 	        	id INT(20) UNSIGNED AUTO_INCREMENT PRIMARY KEY,
-   	     	msg VARCHAR(2000),
-      	  	date TIMESTAMP
+   	     		msg VARCHAR(2000),
+      	  		date TIMESTAMP
     		)
 		");
 		
