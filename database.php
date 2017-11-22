@@ -2,7 +2,7 @@
 	$GLOBALS["servername"] = "localhost";
 	$GLOBALS["username"] = "username";
 	$GLOBALS["password"] = "password";
-	$GLOBALS["database"] = "forum_test";
+	$GLOBALS["database"] = "bulletin_board";
 	$GLOBALS["table"] = "posts";
 
 	function GetPosts()
